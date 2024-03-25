@@ -38,7 +38,7 @@ CVPR.
 <a id="2">[2]</a>
 Goodall, Colin. “Procrustes Methods in the Statistical Analysis of Shape.” Journal of the Royal Statistical Society. Series B (Methodological), vol. 53, no. 2, 1991, pp. 285–339. JSTOR, http://www.jstor.org/stable/2345744.
 <br>
-<a id="3">[2]</a>
+<a id="3">[3]</a>
 Christos Sagonas, Epameinondas Antonakos, Georgios Tzimiropoulos, Stefanos Zafeiriou, Maja Pantic,
 300 Faces In-The-Wild Challenge: database and results,
 Image and Vision Computing,
